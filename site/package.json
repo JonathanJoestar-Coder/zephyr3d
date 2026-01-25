@@ -58,7 +58,7 @@
     "@types/draco3d": "^1.4.9",
     "draco3d": "^1.5.7",
     "colors": "^1.4.0",
-    "diff": "^5.0.0",
+    "diff": "^8.0.3",
     "highlight.js": "^11.8.0",
     "bootstrap": "^5.3.1",
     "lil-gui": "^0.19.2",
